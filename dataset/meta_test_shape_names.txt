@@ -1,0 +1,10 @@
+bookshelf
+vase
+bottle
+piano
+night_stand
+range_hood
+flower_pot
+keyboard
+sink
+person

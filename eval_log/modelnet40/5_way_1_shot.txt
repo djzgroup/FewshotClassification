@@ -1,0 +1,1 @@
+The Average Instance Accuracy is: 80.37428571428572, Interval: 0.7762917925625648
